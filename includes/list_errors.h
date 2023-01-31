@@ -2,7 +2,7 @@ enum errors {
     NO_ERRORS            = 0,
     CALLOC_RETURNED_NULL = 1,
     NULLPTR_GIVEN        = 2,
-    EMPTY_LIST           = 3,
+    EMPTY_NODE           = 3,
     WRONG_INDEX          = 4,
     WRONG_CAPACITY       = 5,
 };
